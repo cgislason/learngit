@@ -17,6 +17,8 @@ hr {
 }
 .card {
 	background-color: #BDBEC4;
+	box-shadow: 2px 0 #8792A8;
+	border-radius: 12px 12px 0 0;
 	padding: 1em;
 	margin-bottom: 1em;
 }
@@ -26,6 +28,12 @@ hr {
 
 ul {
 	padding-left: 1em;
+}
+	ul.numbered {
+		list-style-type: decimal;
+	}
+dd, ul.numbered li {
+	padding-bottom: 0.6em;
 }
 
 li {
