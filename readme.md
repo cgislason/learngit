@@ -1,0 +1,1 @@
+This is an example repo for exploring how git commits and branching work.
