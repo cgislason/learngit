@@ -1,4 +1,6 @@
 body {
+	background-color: #445878;
+	color: #1C1D21;
 	font-family: helvetica, arial, sans-serif;
 	padding-left: 15em;
 	padding-right: 15em;
@@ -9,6 +11,7 @@ hr {
 	border-radius: 2px;
 }
 .card {
+	background-color: #BDBEC4;
 	padding: 1em;
 	margin-bottom: 1em;
 }
