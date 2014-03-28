@@ -1,7 +1,14 @@
 body {
+	background-color: #445878;
+	color: #1C1D21;
 	font-family: helvetica, arial, sans-serif;
 	padding-left: 15em;
 	padding-right: 15em;
+}
+
+h1, h2, h3, dt {
+	color: #1A243D;
+	text-shadow: 1px 1px #8792A8;
 }
 
 hr {
@@ -9,6 +16,26 @@ hr {
 	border-radius: 2px;
 }
 .card {
+	background-color: #BDBEC4;
+	box-shadow: 2px 0 #8792A8;
+	border-radius: 12px 12px 0 0;
 	padding: 1em;
 	margin-bottom: 1em;
+}
+	.card h1 {
+		margin-top: 0;
+	}
+
+ul {
+	padding-left: 1em;
+}
+	ul.numbered {
+		list-style-type: decimal;
+	}
+dd, ul.numbered li {
+	padding-bottom: 0.6em;
+}
+
+li {
+	padding-bottom: 0.3em;
 }
