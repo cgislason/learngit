@@ -1,0 +1,14 @@
+body {
+	font-family: helvetica, arial, sans-serif;
+	padding-left: 15em;
+	padding-right: 15em;
+}
+
+hr {
+	border: 1px solid #8792A8;
+	border-radius: 2px;
+}
+.card {
+	padding: 1em;
+	margin-bottom: 1em;
+}
